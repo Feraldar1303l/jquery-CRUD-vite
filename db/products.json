@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "laptop",
+      "description": "laptop gaming",
+      "price": 1000,
+      "inStock": false
+    },
+    {
+      "id": "2",
+      "name": "mouse",
+      "description": "mouse gaming",
+      "price": 100,
+      "inStock": false
+    },
+    {
+      "id": "3",
+      "name": "keyboard",
+      "description": "keyboard gaming",
+      "price": 200,
+      "inStock": true
+    },
+    {
+      "id": "d04a",
+      "name": "",
+      "description": "",
+      "price": "",
+      "inStock": true
+    },
+    {
+      "id": "03a4",
+      "name": "razer",
+      "description": "keyboard gaming",
+      "price": "2000",
+      "inStock": true
+    }
+  ]
+}
